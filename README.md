@@ -41,7 +41,7 @@ to
 [announce@tensorflow.org](https://groups.google.com/a/tensorflow.org/forum/#!forum/announce).
 See all the [mailing lists](https://www.tensorflow.org/community/forums).
 
-## Install
+Install
 
 See the [TensorFlow install guide](https://www.tensorflow.org/install) for the
 [pip package](https://www.tensorflow.org/install/pip), to
@@ -50,17 +50,17 @@ See the [TensorFlow install guide](https://www.tensorflow.org/install) for the
 [build from source](https://www.tensorflow.org/install/source).
 
 To install the current release, which includes support for
-[CUDA-enabled GPU cards](https://www.tensorflow.org/install/gpu) *(Ubuntu and
-Windows)*:
+[CUDA-enabled GPU cards](https://www.tensorflow.org/install/gpu) (Ubuntu and
+Windows):
 
 ```
 $ pip install tensorflow
 ```
 
-Other devices (DirectX and MacOS-metal) are supported using
+Other devices (DirectX and MacOSmetal) are supported using
 [Device plugins](https://www.tensorflow.org/install/gpu_plugins#available_devices).
 
-A smaller CPU-only package is also available:
+A smaller CPUonly package is also available:
 
 ```
 $ pip install tensorflow-cpu
@@ -93,7 +93,7 @@ For more examples, see the
  Contribution guidelines
 
 If you want to contribute to TensorFlow, be sure to review the
-[contribution guidelines](CONTRIBUTING.md). This project adheres to TensorFlow's
+[contribution guidelines](CONTRIBUTING.md). This project adheres to TensorFlow
 [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to
 uphold this code.
 
